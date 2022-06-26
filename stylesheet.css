@@ -1,8 +1,8 @@
-h2 {
+h1 {
     color: red;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-span {
-    color: aqua;
+h2 {
+    color:blueviolet;
 }
