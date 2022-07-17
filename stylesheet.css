@@ -7,6 +7,14 @@ h2 {
     color:blueviolet;
 }
 
+.h2 {
+    color: green;
+}
+
 p {
     color: lightseagreen;
+}
+
+.p1 {
+    color: blue;
 }
