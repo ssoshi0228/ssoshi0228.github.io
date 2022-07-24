@@ -9,18 +9,30 @@ h2 {
 
 .h2 {
     color: blue;
+    background-color: 
 }
 
 span {
-    color: skyblue;
+    color: white;
+    opacity: 0.6;
+    font-family: serif;
+    background-color: blue;
 }
 
 .tuusyou {
     color: black;
+    background-color: white;
 }
 
 .世界 {
     color: indigo;
+    font-family: serif;
+    background-color: wheat;
+}
+
+.seba {
+    color: violet;
+    background-color: white;
 }
 
 p {
