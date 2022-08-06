@@ -52,6 +52,19 @@ p {
     color: crimson;
 }
 
-.2nd-back {
+.two-back {
     background-image: url(https://2.bp.blogspot.com/-RB1mDuQvGkI/USyJ0W9QfKI/AAAAAAAAObc/Idip0N8CFUw/s1600/nigirizushi_moriawase.png);
+    background-size: cover;
+}
+
+.ikura-tobiko {
+    color:springgreen;
+}
+
+.but {
+    color:darkorange;
+}
+
+.tuna {
+    color: red;
 }
