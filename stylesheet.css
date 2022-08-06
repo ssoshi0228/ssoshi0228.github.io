@@ -45,7 +45,8 @@ p {
 
 .start-back {
     background-image: url(https://free-materials.com/adm/wp-content/uploads/2020/06/adpDSC_5901-760x507-1.jpg);
-    background-size: cover;
+    background-size: 50% 100%;
+
 }
 
 .sushi {
@@ -54,7 +55,7 @@ p {
 
 .two-back {
     background-image: url(https://2.bp.blogspot.com/-RB1mDuQvGkI/USyJ0W9QfKI/AAAAAAAAObc/Idip0N8CFUw/s1600/nigirizushi_moriawase.png);
-    background-size: cover;
+    background-size: 50% 100%;
 }
 
 .ikura-tobiko {
