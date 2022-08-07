@@ -43,10 +43,11 @@ p {
     color: black;
 }
 
-.start-back {
+.first-back {
     background-image: url(https://free-materials.com/adm/wp-content/uploads/2020/06/adpDSC_5901-760x507-1.jpg);
-    background-size: 50% 100%;
-
+    height: 375px;
+    background-repeat: no-repeat;
+    background-size: 
 }
 
 .sushi {
@@ -55,10 +56,18 @@ p {
 
 .two-back {
     background-image: url(https://2.bp.blogspot.com/-RB1mDuQvGkI/USyJ0W9QfKI/AAAAAAAAObc/Idip0N8CFUw/s1600/nigirizushi_moriawase.png);
-    background-size: 50% 100%;
+    background-size: 50% auto;
+    height: 425px;
+    background-repeat: no-repeat;
+    padding: 80px 0 0 0;
 }
 
-.ikura-tobiko {
+.back {
+    display: flex;
+    background-color: hotpink;
+}
+
+.iko {
     color:springgreen;
 }
 
