@@ -65,6 +65,7 @@ p {
 .back {
     display: flex;
     background-color: hotpink;
+    
 }
 
 .iko {
@@ -77,4 +78,8 @@ p {
 
 .tuna {
     color: red;
+}
+
+.title {
+    background-color: hotpink;
 }
