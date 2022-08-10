@@ -24,7 +24,7 @@ span {
     background-color: white;
 }
 
-.世界 {
+.world {
     color: indigo;
     font-family: serif;
     background-color: wheat;
@@ -82,8 +82,4 @@ p {
 
 .title {
     background-color: hotpink;
-}
-
-.live {
-    padding-left: 500px;
 }
