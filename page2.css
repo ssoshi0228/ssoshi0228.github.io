@@ -3,5 +3,15 @@
 }
 
 .information {
-  color: red;
+  color: white;
+  background-color: black;
+}
+
+.profil {
+  color: aqua;
+}
+
+h1 {
+  font-family: arial,Helvetica, sans-serif;
+  color: springgreen;
 }
